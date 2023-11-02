@@ -8,12 +8,6 @@ Webiste sells clothes with the following homepage interface:
 
 Product Webpage Interface:
 ![image](https://user-images.githubusercontent.com/80412143/123236986-7804cd00-d507-11eb-894a-dfe450eacf32.png)
-Others Webpage:
-![image](https://user-images.githubusercontent.com/80412143/123237409-db8efa80-d507-11eb-918d-b639ebc900d1.png)
-![image](https://user-images.githubusercontent.com/80412143/123237429-dfbb1800-d507-11eb-9ed6-7ae5926b7815.png)
-Login and Register form:
-![image](https://user-images.githubusercontent.com/80412143/123237534-f3ff1500-d507-11eb-8b86-ec7f42e4222a.png)
-![image](https://user-images.githubusercontent.com/80412143/123237859-3a547400-d508-11eb-99e3-5ca7120d5d87.png)
 
 
 
